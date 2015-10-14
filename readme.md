@@ -13,3 +13,5 @@ It's my eventual goal to make these studies even better as I want to learn more.
 * Add Tests
 * Add Complexity
 * Add Variations
+* JSLinting
+* More Explanatory Comments
